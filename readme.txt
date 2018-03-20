@@ -3,3 +3,4 @@ Git is free software.
 Git has a mutable index called stage
 four double
 create a new branch is quick
+generate conflict
