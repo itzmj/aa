@@ -5,4 +5,4 @@ four double
 create a new branch is quick
 generate a conflict
 -----------------------
-Create a new branch is quick AND simple ooo
+Create a new branch is quick AND simple 
